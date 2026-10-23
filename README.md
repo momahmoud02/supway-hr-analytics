@@ -59,7 +59,7 @@ supway-hr-analytics/
 
 ## Data notes
 
-- The report uses a sample HR dataset for demonstration and practice.
+- The report uses a representative HR dataset for analysis.
 - No real employee records are published with this project.
 - The project is independent and is not affiliated with any employer or brand.
 
