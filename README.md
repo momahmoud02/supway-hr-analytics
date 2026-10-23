@@ -2,6 +2,8 @@
 
 An HR analytics dashboard in Power BI focused on employee attrition, workforce composition, and experience, built on a 1,480-record HR dataset.
 
+![Supway HR Analytics dashboard](assets/dashboard.png)
+
 ## Overview
 
 | Item | Detail |
@@ -9,7 +11,7 @@ An HR analytics dashboard in Power BI focused on employee attrition, workforce c
 | Dataset | 1,480 employee records, 38 fields |
 | Tooling | Power BI Desktop, DAX, native visuals |
 | Layout | Single-page HR dashboard |
-| Visuals | 6 KPI cards, donut, bar, column, pie, area, funnel, pivot table, 2 slicers |
+| Visuals | 6 KPI cards, donut, bar, column, area, pie, pivot table, 2 slicers |
 
 ## What the dashboard covers
 
@@ -46,6 +48,8 @@ The file uses employee IDs only; it contains no employee names or contact detail
 ```text
 supway-hr-analytics/
 |-- Supway_HR_Analytics.pbix
+|-- assets/
+|   `-- dashboard.png
 |-- data/
 |   `-- HR_Analytics.csv
 `-- README.md
